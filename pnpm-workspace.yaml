@@ -1,0 +1,6 @@
+ignoredBuiltDependencies:
+  - node-odbc-altibase
+  - odbc
+  - oracledb
+  - sharp
+  - unrs-resolver
